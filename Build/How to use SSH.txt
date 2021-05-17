@@ -1,0 +1,9 @@
+to send a file:
+
+scp -i is the command
+tetroidserversshkeypair.pem is the permission key for the SSH
+<FILE> file name
+ec2-user@3.96.136.220 is the user and IP
+:. for root
+
+scp -i H:\ssh\tetroidserversshkeypair.pem <FILE> ec2-user@3.96.136.220:.

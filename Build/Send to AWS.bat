@@ -1,0 +1,1 @@
+scp -i H:\ssh\tetroidserversshkeypair.pem TetroidServer.pck ec2-user@3.98.93.109:.

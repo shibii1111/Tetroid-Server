@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="GameWindow" type="Node"]
+
+[node name="1pGrid" type="Node" parent="."]
+
+[node name="2pGrid" type="Node" parent="."]
+
+[node name="1pCursor" type="Node" parent="."]
+
+[node name="2pCursor" type="Node" parent="."]
